@@ -22,7 +22,7 @@ For good theme management use the [**Theme Toggler**](https://github.com/redston
 To install the Download and Install the Theme use this command:
 
 ```
-cd powercord/src/Powercord/themes && git clone THEME-LINK
+cd powercord/src/Powercord/themes && git clone https://github.com/doggybootsy/bubblecord
 ```
 
 ### Updating
