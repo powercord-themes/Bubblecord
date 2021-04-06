@@ -5,7 +5,7 @@
 
 ## Preview
 
-THEME-DESCRIPTION
+This theme makes discord bubbly.
 
 ![Preview](https://user-images.githubusercontent.com/58918358/113756402-9da4e600-9711-11eb-93d3-3f02c57d6518.png)
 
